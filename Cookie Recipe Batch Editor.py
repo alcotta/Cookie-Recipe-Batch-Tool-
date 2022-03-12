@@ -17,4 +17,4 @@ print ( "Number of cups of flour:" + str(newFlour))
 print ( "Number of cups of butter:" + str(newButter)) 
 print ( "Number of cups of sugar:" + str(newSugar))
 
-print ("Amanda Alcott-Herr")
+
